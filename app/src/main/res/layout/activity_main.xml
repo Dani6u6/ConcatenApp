@@ -68,8 +68,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Texto 1"
-                    app:boxStrokeColor="@color/primary_green"
-                    app:hintTextColor="@color/primary_green"
                     app:startIconDrawable="@android:drawable/ic_menu_edit">
 
                     <com.google.android.material.textfield.TextInputEditText
@@ -86,8 +84,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="12dp"
                     android:hint="Texto 2"
-                    app:boxStrokeColor="@color/primary_green"
-                    app:hintTextColor="@color/primary_green"
                     app:startIconDrawable="@android:drawable/ic_menu_edit">
 
                     <com.google.android.material.textfield.TextInputEditText
@@ -104,8 +100,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="12dp"
                     android:hint="Texto 3"
-                    app:boxStrokeColor="@color/primary_green"
-                    app:hintTextColor="@color/primary_green"
                     app:startIconDrawable="@android:drawable/ic_menu_edit">
 
                     <com.google.android.material.textfield.TextInputEditText
@@ -122,8 +116,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="12dp"
                     android:hint="Texto 4"
-                    app:boxStrokeColor="@color/primary_green"
-                    app:hintTextColor="@color/primary_green"
                     app:startIconDrawable="@android:drawable/ic_menu_edit">
 
                     <com.google.android.material.textfield.TextInputEditText

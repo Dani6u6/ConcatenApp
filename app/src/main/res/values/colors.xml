@@ -7,4 +7,5 @@
     <color name="primary_dark_green">#005005</color>
     <color name="secondary_green">#A5D6A7</color>
     <color name="surface_green">#F1F8E9</color>
+    <color name="surface_green_dark">#1B5E20</color>
 </resources>
